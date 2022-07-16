@@ -20,7 +20,7 @@ It helps students to interact virtually.
 
 ## Steps to be followed in order to make valid contributions ☘️
 
-**1.** Fork the [MediLink](https://github.com/Uttam-Singhh/MediLink) repo by clicking on the fork button on the top of the page. This will create a copy of this repository in your account.
+**1.** Fork the [MediLink](https://github.com/urvishajain/MEDILINK) repo by clicking on the fork button on the top of the page. This will create a copy of this repository in your account.
 
 **2.** Clone the forked repository
 
